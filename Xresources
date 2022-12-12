@@ -1,0 +1,39 @@
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+
+! window padding
+st.borderpx: 20
+
+!-- values between 0.1  - 1.0 --! 
+
+st.alpha: 1.0
+st.font: CaskaydiaCove Nerd Font Mono:style:medium:pixelsize=12
+
+!-- colors --!
+
+*.foreground:   #d9d7d6
+*.background:   #0D0E0F
+*.cursorColor:  #d9d7d6
+*fading: 35
+
+*.color0: #1c252c
+*.color1: #df5b61
+*.color2: #78b892
+*.color3: #de8f78
+*.color4: #6791c9
+*.color5: #bc83e3
+*.color6: #67afc1
+*.color7: #d9d7d6
+
+*.color8: #484e5b
+*.color9: #f16269
+*.color10: #8cd7aa
+*.color11: #e9967e
+*.color12: #79aaeb
+*.color13: #c488ec
+*.color14: #7acfe4
+*.color15: #e5e5e5
